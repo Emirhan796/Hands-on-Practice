@@ -1,0 +1,18 @@
+🛠️ HTML & CSS Practice: Simple Landing Page
+This is a basic front-end practice project built with HTML and CSS. It features a clean layout including a navigation bar, category links, social media icons, and a header section with an image and descriptive text.
+
+✨ Features
+Simple and responsive design
+
+Font Awesome icon integration
+
+Navigation bar with product category links
+
+Header section with an image and text content
+
+🧰 Technologies Used
+HTML5
+
+CSS3
+
+Font Awesome (via CDN)
