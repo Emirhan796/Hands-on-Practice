@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+}
+
+.container{
+    height: 100vh;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr 1fr 1fr;
+   
+
+}
+
+.content{
+    border: 2px solid;
+    background-color: aqua;
+ }
+
+ .content1{
+    background-color: teal;
+    grid-column-start: 1;
+    grid-column-end: 3;
+    grid-row-start: 1;
+    grid-row-end: 2;
+ }
+
+ .content12{
+    background-color: orangered;
+    grid-column-start: 3;
+    grid-column-end: 5;
+    grid-row-start: 1;
+    grid-row-end: 2;
+
+ }
