@@ -72,3 +72,5 @@ console.log(statement)
 console.log(statement.slice(1,3))
 console.log(statement)
 
+console.clear()
+
