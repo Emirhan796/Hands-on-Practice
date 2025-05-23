@@ -173,7 +173,7 @@ console.clear()
 //? maasi 50000 den büyük olanları yeni bir dizide toplayınız
 const maaslar = [90000, 75000, 60000, 40000, 30000];
 
-//? 5 değerli dizi verdik şartı sağlayan 3 değerli bir dizi dönderdi
+//? 5 değerli dizi verdik şartı sağlayan 3 değerli bir dizi döndürdü.
 const buyuk=maaslar.filter((maas)=> maas>50000)
 console.log(buyuk)
 
@@ -209,7 +209,7 @@ console.log(zamli1)
 //*           REDUCE
 //* =======================================
 
-//! Reduce dizi elemanlarını alıp tek sonuç dönderir.
+//! Reduce dizi elemanlarını alıp tek sonuç döndürür.
 //? biriktirme işlemidir.
 
 // Syntax
