@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Bitcount+Grid+Double:wght@100..900&display=swap');
+
+@font-face{
+    font-family: "ozel";
+    src: url(./harici.otf);
+}
+
+.cssf{
+    font-family: 'Courier New', Courier, monospace;
+    color: brown;
+}
+
+.gf{
+    font-family: "Bitcount Grid Double", system-ui;
+    font-size: large;
+}
+
+.harici{
+    font-family: "ozel";
+    font-size: 50px;
+}
